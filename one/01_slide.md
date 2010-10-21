@@ -16,7 +16,7 @@
 ![four](img/4.png)
 
 !SLIDE
-## First, some structure (HTML) ##
+## First some structure (HTML) ##
 
     @@@ html
     <tr class="filter_row">
@@ -91,3 +91,4 @@
 
 !SLIDE
 # Thanks! #
+## github.com/kevinold/jquery_codeshare ##
