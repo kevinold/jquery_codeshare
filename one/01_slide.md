@@ -16,6 +16,21 @@
 ![four](img/4.png)
 
 !SLIDE
+## First, some structure (HTML) ##
+
+    @@@ html
+    <tr class="filter_row">
+      <td>
+        <a class="_remove_row">
+        <select name="filter_dropdown_1">...
+
+      <td>
+        <div class="filter_status">...
+
+      <td>
+        <div class="panel">...
+
+!SLIDE
 ## .closest(), .find() ##
 
     @@@ javaScript
